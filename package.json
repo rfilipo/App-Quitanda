@@ -1,0 +1,19 @@
+{
+  "name": "quitanda",
+  "version": "1.0.0",
+  "description": "Simple green store",
+  "main": "index.js",
+  "scripts": {
+    "test": "prove -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfilipo/App-Quitanda.git"
+  },
+  "author": "Monsenhor",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rfilipo/App-Quitanda/issues"
+  },
+  "homepage": "https://github.com/rfilipo/App-Quitanda#readme"
+}
